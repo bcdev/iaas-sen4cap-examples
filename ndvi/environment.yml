@@ -1,0 +1,7 @@
+name: iaas-sen4cap-examples-ndvi
+channels:
+  - conda-forge
+dependencies:
+  - xarray
+  - xcube
+  - xcube-stac
